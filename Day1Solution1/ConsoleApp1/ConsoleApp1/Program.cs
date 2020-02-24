@@ -5,7 +5,7 @@ namespace ConsoleApp1 {
     class Program {
         private static void Main(string[] args) {
             const string textFile = @"c:\Tmp\input1.txt";
-            var sum = 0.0d; 
+            var sum = 0.0d;
             if (File.Exists(textFile)) {
                 var lines = File.ReadAllLines(textFile);
 
@@ -13,9 +13,7 @@ namespace ConsoleApp1 {
                     if (int.TryParse(line, out var number)) {
                         sum += (Math.Floor(d: (double) (number / 3)) - 2);
                         Console.WriteLine(sum);
-                        
                     }
-
                 }
             }
         }
