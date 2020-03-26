@@ -24,7 +24,6 @@ namespace ConsoleApp1 {
             Console.WriteLine(sum);
         }
         private double CalcModuleFule(double input) {
-        Console.WriteLine("Calc module");
         var sum = 0.0d;
         var tmp = input;
         do {
