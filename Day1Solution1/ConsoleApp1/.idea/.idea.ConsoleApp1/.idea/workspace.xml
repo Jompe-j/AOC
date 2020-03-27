@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="Added module fule calculator to calculate fule needed for added fuel.">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="Add gitignore to project">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
     </list>
@@ -112,7 +108,7 @@
       <workItem from="1585213671700" duration="1359000" />
       <workItem from="1585215231073" duration="6611000" />
       <workItem from="1585229295648" duration="474000" />
-      <workItem from="1585229810518" duration="8156000" />
+      <workItem from="1585229810518" duration="15028000" />
     </task>
     <task id="LOCAL−00001" summary="Added module fule calculator to calculate fule needed for added fuel.">
       <created>1585229501449</created>
@@ -120,7 +116,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1585229501449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Add adding to IntCodeReader">
+      <created>1585241816809</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1585241816809</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Add gitignore to project">
+      <created>1585241856510</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1585241856510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +151,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added module fule calculator to calculate fule needed for added fuel." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added module fule calculator to calculate fule needed for added fuel." />
+    <MESSAGE value="Add adding to IntCodeReader" />
+    <MESSAGE value="Add gitignore to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore to project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585229874223">
@@ -158,28 +168,28 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="93" y="93" width="1413" height="683" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585229006973" />
-    <state width="570" height="200" key="GridCell.Tab.0.bottom" timestamp="1585241609675">
+    <state width="570" height="200" key="GridCell.Tab.0.bottom" timestamp="1585321069330">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="570" height="200" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585241609675" />
+    <state width="570" height="200" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.bottom/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272195" />
     <state width="736" height="304" key="GridCell.Tab.0.bottom/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597336" />
-    <state width="570" height="200" key="GridCell.Tab.0.center" timestamp="1585241609675">
+    <state width="570" height="200" key="GridCell.Tab.0.center" timestamp="1585321069330">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="570" height="200" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585241609675" />
+    <state width="570" height="200" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.center/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272194" />
     <state width="736" height="304" key="GridCell.Tab.0.center/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
-    <state width="570" height="200" key="GridCell.Tab.0.left" timestamp="1585241609675">
+    <state width="570" height="200" key="GridCell.Tab.0.left" timestamp="1585321069329">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="570" height="200" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585241609675" />
+    <state width="570" height="200" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585321069329" />
     <state width="1473" height="306" key="GridCell.Tab.0.left/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272194" />
     <state width="736" height="304" key="GridCell.Tab.0.left/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
-    <state width="570" height="200" key="GridCell.Tab.0.right" timestamp="1585241609675">
+    <state width="570" height="200" key="GridCell.Tab.0.right" timestamp="1585321069330">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="570" height="200" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585241609675" />
+    <state width="570" height="200" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.right/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272195" />
     <state width="736" height="304" key="GridCell.Tab.0.right/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
     <state x="163" y="156" key="SettingsEditor" timestamp="1585239259412">
@@ -192,10 +202,10 @@
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1600.870@0.0.1600.870" timestamp="1585215260719" />
     <state width="498" height="398" key="SwitcherDM/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582582574394" />
-    <state x="545" y="268" key="Vcs.Push.Dialog.v2" timestamp="1585229504623">
+    <state x="545" y="268" key="Vcs.Push.Dialog.v2" timestamp="1585241859337">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="545" y="268" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585229504623" />
+    <state x="545" y="268" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585241859337" />
     <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583858579" />
     <state x="548" y="222" key="git4idea.merge.GitPullDialog" timestamp="1585212773126">
       <screen x="0" y="0" width="1600" height="870" />
