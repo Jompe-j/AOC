@@ -7,6 +7,7 @@
       <e p="ConsoleApp1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="FuleCalculator.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -15,6 +16,12 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="ProgramAlarm.cs" t="Include" />
+        <e p="WireCrossing" t="Include">
+          <e p="Point.cs" t="Include" />
+          <e p="Wire.cs" t="Include" />
+          <e p="WireSegment.cs" t="Include" />
+        </e>
       </e>
       <e p="ConsoleApp1.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

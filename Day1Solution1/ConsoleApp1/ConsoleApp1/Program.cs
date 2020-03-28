@@ -1,21 +1,30 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 
 namespace ConsoleApp1 {
     class Program {
         private static void Main(string[] args) {
-            const string textFile = @"c:\Tmp\input1.txt";
-            var sum = 0.0d;
-            if (File.Exists(textFile)) {
-                var lines = File.ReadAllLines(textFile);
+            FuelHandler();
+            ProgramAlarmHandler();
+            WireHandler();
+        }
 
-                foreach (var line in lines) {
-                    if (int.TryParse(line, out var number)) {
-                        sum += (Math.Floor(d: (double) (number / 3)) - 2);
-                        Console.WriteLine(sum);
-                    }
-                }
-            }
+        private static void WireHandler() {
+        }
+
+        private static void FuelHandler() {
+            var totalFuel = new FuleCalculator();
+            
+            const string textFile = @"c:\Tmp\input1.txt";
+            if (!File.Exists(textFile)) return;
+            var lines = File.ReadAllLines(textFile);
+            totalFuel.SimplePrintFuel(lines);
+            totalFuel.PrintTotalFuel(lines);
+        }
+        
+
+        private static void ProgramAlarmHandler() {
+            var programAlarm = new ProgramAlarm();
+            programAlarm.ProgramAlarmTest();
         }
     }
 }

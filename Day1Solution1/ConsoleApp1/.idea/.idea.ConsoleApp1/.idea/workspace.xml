@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="Add all numbers">
+    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="add netCore to .gitignore.">
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/WireSegment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ConsoleApp1" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/WireSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/WireCrossing/WireSegment.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
       </list>
     </option>
@@ -26,13 +50,14 @@
   <component name="ProjectId" id="1W5MncWpKkZVtv5QMW2FLcTmdNx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -89,15 +114,42 @@
       <updated>1578435170779</updated>
       <workItem from="1578435174173" duration="1055000" />
       <workItem from="1582580917322" duration="12000" />
-      <workItem from="1582581070007" duration="3052000" />
+      <workItem from="1582581070007" duration="2728000" />
+      <workItem from="1584037760252" duration="6691000" />
+      <workItem from="1585209215178" duration="13000" />
+      <workItem from="1585212665809" duration="975000" />
+      <workItem from="1585213671700" duration="1359000" />
+      <workItem from="1585215231073" duration="6611000" />
+      <workItem from="1585229295648" duration="474000" />
+      <workItem from="1585229810518" duration="15028000" />
+      <workItem from="1585389402756" duration="3931000" />
+      <workItem from="1585395393247" duration="1311000" />
     </task>
-    <task id="LOCAL−00001" summary="First!">
-      <created>1582584011806</created>
+    <task id="LOCAL−00001" summary="Added module fule calculator to calculate fule needed for added fuel.">
+      <created>1585229501449</created>
       <option name="number" value="LOCAL−00001" />
       <option name="presentableId" value="LOCAL−00001" />
-      <updated>1582584011806</updated>
+      <updated>1585229501449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Add adding to IntCodeReader">
+      <created>1585241816809</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1585241816809</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Add gitignore to project">
+      <created>1585241856510</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1585241856510</updated>
+    </task>
+    <task id="LOCAL−00004" summary="add netCore to .gitignore.">
+      <created>1585421930386</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1585421930386</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,52 +162,89 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add all numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add all numbers" />
+    <MESSAGE value="Added module fule calculator to calculate fule needed for added fuel." />
+    <MESSAGE value="Add adding to IntCodeReader" />
+    <MESSAGE value="Add gitignore to project" />
+    <MESSAGE value="add netCore to .gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="add netCore to .gitignore." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="536" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585229874223">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="536" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1585229874223" />
     <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582580924756">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582580924756" />
-    <state width="736" height="304" key="GridCell.Tab.0.bottom" timestamp="1582583597336">
+    <state x="93" y="93" width="1413" height="683" key="DiffContextDialog" timestamp="1585229006973">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="93" y="93" width="1413" height="683" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1585229006973" />
+    <state width="1124" height="270" key="GridCell.Tab.0.bottom" timestamp="1585395368193">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
+    <state width="570" height="200" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.bottom/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272195" />
-    <state width="736" height="304" key="GridCell.Tab.0.bottom/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597336" />
-    <state width="736" height="304" key="GridCell.Tab.0.center" timestamp="1582583597335">
+    <state width="1124" height="270" key="GridCell.Tab.0.bottom/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395368193" />
+    <state width="1124" height="270" key="GridCell.Tab.0.center" timestamp="1585395368192">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
+    <state width="570" height="200" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.center/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272194" />
-    <state width="736" height="304" key="GridCell.Tab.0.center/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
-    <state width="736" height="304" key="GridCell.Tab.0.left" timestamp="1582583597335">
+    <state width="1124" height="270" key="GridCell.Tab.0.center/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395368192" />
+    <state width="1124" height="270" key="GridCell.Tab.0.left" timestamp="1585395368191">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
+    <state width="570" height="200" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1585321069329" />
     <state width="1473" height="306" key="GridCell.Tab.0.left/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272194" />
-    <state width="736" height="304" key="GridCell.Tab.0.left/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
-    <state width="736" height="304" key="GridCell.Tab.0.right" timestamp="1582583597335">
+    <state width="1124" height="270" key="GridCell.Tab.0.left/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395368191" />
+    <state width="1124" height="270" key="GridCell.Tab.0.right" timestamp="1585395368193">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
+    <state width="570" height="200" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1585321069330" />
     <state width="1473" height="306" key="GridCell.Tab.0.right/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578436272195" />
-    <state width="736" height="304" key="GridCell.Tab.0.right/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582583597335" />
-    <state x="260" y="351" key="SettingsEditor" timestamp="1578435976752">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="1124" height="270" key="GridCell.Tab.0.right/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395368193" />
+    <state x="163" y="156" key="SettingsEditor" timestamp="1585239259412">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
+    <state x="163" y="156" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1585239259412" />
     <state x="260" y="351" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578435976752" />
-    <state width="498" height="398" key="SwitcherDM" timestamp="1582582574394">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1585215260719">
+      <screen x="0" y="0" width="1600" height="870" />
     </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1600.870@0.0.1600.870" timestamp="1585215260719" />
     <state width="498" height="398" key="SwitcherDM/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582582574394" />
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1582584142838">
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1585421938920">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582584142838" />
+    <state x="545" y="268" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1585241859337" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585421938920" />
+    <state x="548" y="222" key="git4idea.merge.GitPullDialog" timestamp="1585212773126">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="548" y="222" key="git4idea.merge.GitPullDialog/0.0.1600.870@0.0.1600.870" timestamp="1585212773126" />
+    <state x="444" y="163" width="700" height="530" key="recent.locations.popup" timestamp="1584042495892">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="444" y="163" width="700" height="530" key="recent.locations.popup/0.0.1600.870@0.0.1600.870" timestamp="1584042495892" />
+    <state x="458" y="200" width="672" height="677" key="run.anything.popup" timestamp="1584040290173">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="458" y="200" width="672" height="677" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1584040290173" />
+    <state x="765" y="334" width="1076" height="1099" key="search.everywhere.popup" timestamp="1585395605467">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="478" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1585241147276" />
+    <state x="765" y="334" width="1076" height="1099" key="search.everywhere.popup/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395605467" />
   </component>
 </project>
