@@ -25,9 +25,6 @@ namespace ConsoleApp1 {
         }
 
         private static void FindVerbNoun(int[] ints) {
-
-            var result = 0;
-
             for (int verb = 0; verb < 100; verb++) {
                 for (int noun = 0; noun < 100; noun++) {
                     int[] codeProgram = (int[]) ints.Clone();

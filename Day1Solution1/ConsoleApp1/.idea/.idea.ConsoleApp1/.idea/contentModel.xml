@@ -18,6 +18,9 @@
         <e p="Program.cs" t="Include" />
         <e p="ProgramAlarm.cs" t="Include" />
         <e p="WireCrossing" t="Include">
+          <e p="Coordinate.cs" t="Include" />
+          <e p="Grid.cs" t="Include" />
+          <e p="IntersectionCalculator.cs" t="Include" />
           <e p="Point.cs" t="Include" />
           <e p="Wire.cs" t="Include" />
           <e p="WireSegment.cs" t="Include" />
