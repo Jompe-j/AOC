@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="Advent of code 2019, day 3 part 1. So overworked.">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" afterDir="false" />
+    <list default="true" id="8bcbbb43-db46-4afb-a433-b8a33aef98a7" name="Default Changelist" comment="adding nothing">
+      <change afterPath="$PROJECT_DIR$/ConsoleApp1/FuelPassword/RepeatingRangeFinder.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/IntersectionCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/IntersectionCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +34,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/IntersectionCalculator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/WireSegment.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/FuelPassword/RepeatingRangeFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/ProgramAlarm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/WireSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Wire.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Coordinate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/Grid.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/38/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp1/FuleCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/WireCrossing/IntersectionCalculator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +59,7 @@
         <option value="$PROJECT_DIR$/ConsoleApp1/WireCrossing/IntersectionCalculator.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/FuelPassword/RepeatingRangeFinder.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +87,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.jscs" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
@@ -153,6 +148,7 @@
       <workItem from="1585643746728" duration="15176000" />
       <workItem from="1585738720531" duration="44904000" />
       <workItem from="1586083660295" duration="672000" />
+      <workItem from="1586509403870" duration="4009000" />
     </task>
     <task id="LOCAL−00001" summary="Added module fule calculator to calculate fule needed for added fuel.">
       <created>1585229501449</created>
@@ -222,10 +218,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="536" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1585229874223" />
-    <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582580924756">
+    <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586509320411">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1582580924756" />
+    <state x="446" y="433" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1586509320411" />
     <state x="93" y="93" width="1413" height="683" key="DiffContextDialog" timestamp="1585229006973">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -318,11 +314,12 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1558" height="300" key="GridCell.Tab.4.right/0.0.1600.870@0.0.1600.870" timestamp="1586083236090" />
-    <state x="163" y="156" key="SettingsEditor" timestamp="1585819309918">
-      <screen x="0" y="0" width="1600" height="870" />
+    <state x="261" y="253" key="SettingsEditor" timestamp="1586510985060">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="163" y="156" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1585819309918" />
     <state x="260" y="351" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410@0.0.2560.1410" timestamp="1578435976752" />
+    <state x="261" y="253" key="SettingsEditor/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1586510985060" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1585215260719">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -345,30 +342,13 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="458" y="200" width="672" height="677" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1584040290173" />
-    <state x="553" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1585917893062">
-      <screen x="0" y="0" width="1600" height="870" />
+    <state x="765" y="334" width="1076" height="1099" key="search.everywhere.popup" timestamp="1586510925066">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="553" y="281" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1585917893062" />
-    <state x="765" y="334" width="1076" height="1099" key="search.everywhere.popup/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1585395605467" />
+    <state x="765" y="334" width="1076" height="1099" key="search.everywhere.popup/0.0.2560.1410/-4480.353.1920.1050/-2560.0.2560.1410@0.0.2560.1410" timestamp="1586510925066" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs</url>
-          <line>50</line>
-          <properties documentPath="$PROJECT_DIR$/ConsoleApp1/FuelPassword/FuelPasswordCalculator.cs" initialLine="16">
-            <startOffsets>
-              <option value="1473" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1490" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="DotNetProject">
         <watch expression="wire1" />

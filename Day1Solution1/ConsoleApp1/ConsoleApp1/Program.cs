@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using System.Threading;
 using ConsoleApp1.FuelPassword;
 using ConsoleApp1.WireCrossing;
 

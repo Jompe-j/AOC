@@ -22,16 +22,6 @@ namespace ConsoleApp1.FuelPassword {
             foreach (var i in PossiblePasswords.LastOrDefault()) {
                 Console.Write(i);        
             }
-
-
-            // foreach (var PP in PossiblePasswords) {
-            //     foreach (var i in PP) {
-            //         Console.Write($"{i} ");
-            //     }
-            //
-            //     Console.WriteLine();
-            //     Console.WriteLine();
-            // }
         }
 
         private bool LowerThanMax(List<int> lastOrDefault) {
