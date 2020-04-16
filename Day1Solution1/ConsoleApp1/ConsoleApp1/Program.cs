@@ -14,8 +14,10 @@ namespace ConsoleApp1 {
         private static void FuelPasswordHandler() {
             var low = "146810";
             var high = "612564";
-            var calculate = new FuelPasswordCalculator();
-            calculate.FindAllPossible(low, high);
+            var psw = new Password(low);
+            psw.PrintPassword();
+            // var calculate = new FuelPasswordCalculator();
+            // calculate.FindAllPossible(low, high);
             // It is a six-digit number.
             // The value is within the range 145810 - 612564.
             // Two adjacent digits are the same (like 22 in 122345).

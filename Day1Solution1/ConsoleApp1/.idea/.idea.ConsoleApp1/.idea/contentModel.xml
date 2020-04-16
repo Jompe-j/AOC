@@ -9,6 +9,7 @@
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
         <e p="FuelPassword" t="Include">
           <e p="FuelPasswordCalculator.cs" t="Include" />
+          <e p="Password.cs" t="Include" />
           <e p="RepeatingRangeFinder.cs" t="Include" />
         </e>
         <e p="FuleCalculator.cs" t="Include" />

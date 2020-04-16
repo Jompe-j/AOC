@@ -22,6 +22,8 @@ namespace ConsoleApp1.FuelPassword {
             foreach (var i in PossiblePasswords.LastOrDefault()) {
                 Console.Write(i);        
             }
+            var tmp = new RepeatingRangeFinder(low, high);
+            
         }
 
         private bool LowerThanMax(List<int> lastOrDefault) {
@@ -71,7 +73,7 @@ namespace ConsoleApp1.FuelPassword {
         }
 
         private static List<int> SetNeverDecreasing(List<int> lowList) {
-            for (int i = 1; i < lowList.Count; i++) {
+            for (var i = 1; i < lowList.Count; i++) {
                 if (lowList[i - 1] > lowList[i]) {
                     lowList[i] = lowList[i - 1];
                 }
@@ -81,7 +83,7 @@ namespace ConsoleApp1.FuelPassword {
         }
 
         private static bool HasRepeating(List<int> setNeverDecreasing) {
-            for (int i = 0; i < 5; i++) {
+            for (var i = 0; i < 5; i++) {
                 for (int j = i + 1; j < 6; j++) {
                     // Console.WriteLine($"Compare position {i} against {j}");
                     if (setNeverDecreasing[i] == setNeverDecreasing[j]) {
@@ -100,9 +102,9 @@ namespace ConsoleApp1.FuelPassword {
         private static bool HasOnlyDoubleRepeating(List<int> numbersList) {
             var pairs = new List<List<int>>();
 
-            for (int i = 1; i < 10; i++) {
+            for (var i = 1; i < 10; i++) {
                 var pair = new List<int>();
-                for (int j = 0; j < 6; j++) {
+                for (var j = 0; j < 6; j++) {
                     if (numbersList[j] == i) {
                        pair.Add(i); 
                     } 
